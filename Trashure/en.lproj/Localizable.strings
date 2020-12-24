@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  Trashure
+
+  Created by Andika on 11/29/20.
+  
+*/
+
+// Login
+"Email" = "Email";
+"Password" = "Password";
+"Forgot Password?" = "FORGOT PASSWORD?";
+"Login" = "LOGIN";
+"or login with" = "or login with";
+"New member of Trashure?" = "New member of Trashure?";
+"Register Now!" = "Register Now!";
+
+// Register
+"Join Trashure" = "Join Trashure";
+"Register now for more benefit!" = "Register now for more benefit!";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Phone Number" = "Phone Number";
+"Day" = "Day";
+"Month" = "Month";
+"Year" = "Year";
+"Register" = "REGISTER";
+
+// Reset
+"Forgot Password" = "Forgot Password";
+"Fill your email to reset the password" = "Fill your email to reset the password.";
+"Send Reset Email" = "SEND RESET EMAIL";
+
+// Home
+"Home" = "Home";
+"Highlights" = "Higtligts";
+"Balance" = "Balance";
+"Level" = "Level";
+"Trashbag" = "Trashbag";
+"Connected" = "connected";
+"Show Collection Charts" = "Show Collection Charts";
+"Recent Collection" = "Recent Collection";
+"No Recent Collection" = "No Recent Collection.";
+"Tips" = "Tips";
+
+// Home - Notification Sheet
+"Notification" = "Notification";
+"Transaction" = "Transaction";
+"Other" = "Other";
+"Sender" = "Sender";
+"Message" = "Message";
+
+// Deposit Row
+"Done" = "Done";
+"On Process" = "On Process";
+
+// Exchange
+"Exchange" = "Exchange";
+"Mobile Balance" = "Mobile Balance";
+"Dana Balance" = "Dana Balance";
+"LinkAja Balance" = "LinkAja Balance";
+"GoPay Balance" = "GoPay Balance";
+"Nominal" = "Nominal";
+"Total" = "Total";
+
+// Exchange - Confirmation
+"Confirmation" = "Confirmation";
+"Service" = "Service";
+"Provider" = "Provider";
+"Total Price" = "Total Price";
+"Exchange Success" = "Exchange Success";
+
+// Scanner
+"Trashbag Connected" = "Trashbag Connected";
+"Old Trashbag Still Connected!" = "Old Trashbag Still Connected!";
+"Disconnect" = "DISCONNECT";
+
+// Price
+"Price" = "Price";
+
+// Setting
+"Setting" = "Setting";
+"Account, Membership & History" = "Account, Membership & History";
+"Debug Menu" = "Debug Menu";
+"Language" = "Language";
+"Help" = "Help";
+"Privacy Policy" = "Privacy Policy";
+"Terms of Service" = "Terms of Service";
+"Give us Star" = "Give us Star";
+"Signout" = "SIGNOUT";
+
+// Setting - Account
+"Account" = "Account";
+"Edit" = "Edit";
+"Personal Data" = "Personal Data";
+"Birthday" = "Birthday";
+
+// Setting - Account Update
+"Update Account" = "Update Account";
+"Contact Data" = "Contact Data";
+
+"See All" = "See All";
+"Success!" = "Success!";
+"on" = "on";
+"Done" = "Done";
+"Error" = "Error";

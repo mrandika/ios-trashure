@@ -1,0 +1,106 @@
+/* 
+  Localizable.strings
+  Trashure
+
+  Created by Andika on 11/29/20.
+  
+*/
+
+// Login
+"Email" = "Email";
+"Password" = "Kata Sandi";
+"Forgot Password?" = "LUPA KATA SANDI?";
+"Login" = "MASUK";
+"or login with" = "atau masuk dengan";
+"New member of Trashure?" = "Belum punya akun Trashure?";
+"Register Now!" = "Daftar Sekarang!";
+
+//Register
+"Join Trashure" = "Daftar Trashure";
+"Register now for more benefit!" = "Daftar sekarang, makin banyak untungnya!";
+"First Name" = "Nama Depan";
+"Last Name" = "Nama Belakang";
+"Phone Number" = "Nomor Telepon";
+"Day" = "Tanggal";
+"Month" = "Bulan";
+"Year" = "Tahun";
+"Register" = "DAFTAR";
+
+// Reset
+"Forgot Password" = "Lupa Kata Sandi";
+"Fill your email to reset the password" = "Masukan email kamu untuk mereset password.";
+"Send Reset Email" = "KIRIM EMAIL";
+
+// Home
+"Home" = "Beranda";
+"Highlights" = "Sorotan";
+"Balance" = "Saldo";
+"Level" = "Level";
+"Trashbag" = "Trashbag";
+"Connected" = "tersambung";
+"Show Collection Charts" = "Tampilkan Diagram Pengumpulan";
+"Recent Collection" = "Setoran Terbaru";
+"No Recent Collection" = "Tidak ada setoran terbaru.";
+"Tips" = "Kiat";
+
+// Home - Notification Sheet
+"Notification" = "Notifikasi";
+"Transaction" = "Transaksi";
+"Other" = "Lainnya";
+"Sender" = "Pengirim";
+"Message" = "Pesan";
+
+// Deposit Row
+"Done" = "Selesai";
+"On Process" = "Diproses";
+
+// Exchange
+"Exchange" = "Penukaran";
+"Mobile Balance" = "Saldo Pulsa";
+"Dana Balance" = "Saldo Dana";
+"LinkAja Balance" = "Saldo LinkAja";
+"GoPay Balance" = "Saldo GoPay";
+"Nominal" = "Nominal";
+"Total" = "Total";
+
+// Exchange - Confirmation
+"Confirmation" = "Konfirmasi";
+"Service" = "Layanan";
+"Provider" = "Penyedia Layanan";
+"Total Price" = "Total Harga";
+"Exchange Success" = "Penukaran Berhasil";
+
+// Scanner
+"Trashbag Connected" = "Trashbag Tersambung";
+"Old Trashbag Still Connected!" = "Trashbag Masih Tersambung!";
+"Disconnect" = "PUTUSKAN SAMBUNGAN";
+
+// Price
+"Price" = "Harga";
+
+// Setting
+"Setting" = "Pengaturan";
+"Account, Membership & History" = "Akun, Keanggotaan & Riwayat";
+"Debug Menu" = "Debug Menu";
+"Language" = "Bahasa";
+"Help" = "Bantuan";
+"Privacy Policy" = "Kebijakan Privasi";
+"Terms of Service" = "Ketentuan Layanan";
+"Give us Star" = "Beri kami Nilai";
+"Signout" = "KELUAR";
+
+// Setting - Account
+"Account" = "Akun";
+"Personal Data" = "Data Pribadi";
+"Birthday" = "Tanggal Lahir";
+
+// Setting - Account Update
+"Update Account" = "Perbarui Akun";
+"Contact Data" = "Data Kontak";
+
+"Edit" = "Ubah";
+"See All" = "Lihat Semua";
+"Success!" = "Berhasil!";
+"on" = "pada";
+"Done" = "Selesai";
+"Error" = "Kesalahan";

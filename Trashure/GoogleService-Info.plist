@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323254705627-7r1uradq92griv5mca6vm53vodl4gqcf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323254705627-7r1uradq92griv5mca6vm53vodl4gqcf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0arT9EvgOkTBx3bu-P4Afc8pnxD1T9Q8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323254705627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>space.mrandika.Trashure</string>
+	<key>PROJECT_ID</key>
+	<string>trashure-34370</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trashure-34370.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323254705627:ios:9f82b15b7523ade4941bfe</string>
+	<key>DATABASE_URL</key>
+	<string>https://trashure-34370.firebaseio.com</string>
+</dict>
+</plist>
