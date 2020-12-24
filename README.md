@@ -2,6 +2,7 @@
 Mobile Innovation Laboratory Internship Project
 
 ![Trashure Boarding](https://raw.githubusercontent.com/mrandika/ios-trashure/main/TrashureOnboarding.png)
+![Trashure Screen](https://raw.githubusercontent.com/mrandika/ios-trashure/main/TrashureScreen.png)
 
 # Installation
 
@@ -12,4 +13,4 @@ Built and developed using Xcode 12.2 (Swift 5)
 1. Clone this repo
 2. Open shell window and navigate to project folder
 3. Run `pod install`
-4. Open `trashure.xcworkspace` and run the project on selected device or simulator
+4. Open `Trashure.xcworkspace` and run the project on selected device or simulator
